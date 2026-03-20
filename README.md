@@ -18,6 +18,8 @@ I'm an aspiring indie game developer, digital artist, and student
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Niantic Studio](https://img.shields.io/badge/niantic%20studio-%23FF0000.svg?style=for-the-badge&logo=niantic&logoColor=white)
 
+--- 
+
 ### 🔌Connect!
 
 <div>
